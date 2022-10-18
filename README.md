@@ -1,13 +1,32 @@
-# titulo
+<!-- o que é o html-->
+<p>O que é HTML: hypertext markup language</P>
+<!--
+-antonomia das tag
+-fechamento da tag
+-conteudo
+-elementos
+-->
+<h1>titulo importante</h1>
+<h2>titulo menor</h2>
+<h3>titulo menor</h3>
 
-## titulo
+<!--elementos vazios-->
+<img src="imagem não tem conteudo" alt="">
 
-''''
-alguma COISA
+<!--
+    atributos HTML
+    -informações extras
+    -configurações
+-->
+<img src="imagem.png" alt="nome do conteudo">
 
-''''
+<!-- atrubutos booleanos (valores verdadeiro ou falso)
+-não precisa de conteudo-->
+<input type="text" disabled>
 
-aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
-
-    aaaaaaaaaaaaaaaaaaaaaaaaaa
-bbbbbbbbbbbbbbbbbbbbbbbbbr</br>bbbbbbbbbbbbbbbbbb
+<!--aspas 
+-omissão 
+-simples
+-duplas
+-->
+<a href="https://google.com"> link</a>
